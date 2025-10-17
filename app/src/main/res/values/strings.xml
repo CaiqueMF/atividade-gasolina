@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Alcohol or Gasoline</string>
+    <string name="price_alcool">Alcohol price (R$)</string>
+    <string name="price_gasoline">Gasoline price (R$)</string>
+    <string name="station_name">Station name (Optional)</string>
+    <string name="calc_button">Calculate</string>
+    <string name="calc_prompt">Let\'s calculate?</string>
+    <string name="switch_label">75%</string>
+    <string name="save_station">Save station</string>
+    <string name="see_list">See station list</string>
+    <string name="list_title">Gas Station List</string>
+    <string name="edit_station">Edit Station</string>
+    <string name="delete_station">Delete Station</string>
+    <string name="see_on_map">View on Map</string>
+    <string name="alcohol_label">Alcohol:</string>
+    <string name="gasoline_label">Gasoline:</string>
+    <string name="date_label">Date:</string>
+    <string name="location_label">Location:</string>
+    <string name="welcome_message">Welcome to Alcohol or Gasoline!</string>
+    <string name="percentage">choose the percentage</string>
+    <string name="station">station</string>
+    <string name="station_not_found">gas station not found</string>
+    <string name="name">name</string>
+    <string name="station_updated">station updated</string>
+    <string name="invalid_parameters">invalid parameters</string>
+    <string name="station_removed">station removed</string>
+    <string name="type_test">type something</string>
+    <string name="go_to_next_screen">go to next screen</string>
+    <string name="welcome">welcome to</string>
+    <string name="welcome_image">welcome image</string>
+</resources>

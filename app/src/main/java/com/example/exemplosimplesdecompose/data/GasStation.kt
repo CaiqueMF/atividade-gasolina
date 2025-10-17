@@ -1,0 +1,14 @@
+package com.example.exemplosimplesdecompose.data
+
+import java.io.Serializable
+
+data class GasStation(
+    var name: String,
+    var alcoolPrice: Double? = null,
+    var gasolinaPrice: Double? = null,
+    val coord: Coordinates,
+    var date: Long = System.currentTimeMillis()
+): Serializable {
+    // Construtor secundário com coordenadas de Fortaleza
+    constructor(nome: String) : this(nome, null, null, Coordinates(41.40338, 2.17403))
+}

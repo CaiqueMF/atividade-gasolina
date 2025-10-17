@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Álcool ou Gasolina</string>
+    <string name="location_label">Localização:</string>
+    <string name="welcome_message">Bem-vindos ao Álcool ou Gasolina!</string>
+    <string name="price_alcool">Preço do Álcool (R$)</string>
+    <string name="price_gasoline">Preço da Gasolina (R$)</string>
+    <string name="station_name">Nome do Posto (Opcional)</string>
+    <string name="calc_button">Calcular</string>
+    <string name="calc_prompt">Vamos Calcular?</string>
+    <string name="switch_label">75%</string>
+    <string name="save_station">Salvar Posto</string>
+    <string name="see_list">Ver lista de postos</string>
+    <string name="list_title">Lista de Postos</string>
+    <string name="edit_station">Editar Posto</string>
+    <string name="delete_station">Excluir Posto</string>
+    <string name="see_on_map">Ver no mapa</string>
+    <string name="alcohol_label">Álcool:</string>
+    <string name="gasoline_label">Gasolina:</string>
+    <string name="date_label">Data:</string>
+    <string name="percentage">Escolha o percentual</string>
+    <string name="station">posto</string>
+    <string name="station_not_found">posto não encontrado</string>
+    <string name="name">nome</string>
+    <string name="station_updated">posto atualizado</string>
+    <string name="invalid_parameters">paremetros invalidos</string>
+    <string name="station_removed">posto excluido</string>
+    <string name="type_test">digite algo</string>
+    <string name="go_to_next_screen">ir para a próxima tela</string>
+    <string name="welcome">bem vindo a</string>
+    <string name="welcome_image">imagem de boas vindas</string>
+</resources>
